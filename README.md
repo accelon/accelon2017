@@ -2,7 +2,7 @@
 
 [2017.4.26 單機版](http://ya.ksana.tw/yinshun/release/accelon20170426.zip)
 
-[2017.4.24 for Yinshun](http://ya.ksana.tw/yinshun/release/yinshun20170424.zip)
+[2017.4.26 for Yinshun](http://ya.ksana.tw/yinshun/release/yinshun20170426.zip)
 
 下載後解壓縮，再下載 cor資料庫。打開index.html 。
 
