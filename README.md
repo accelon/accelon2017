@@ -8,3 +8,4 @@
 
 [教學影片網址](https://www.youtube.com/channel/UCKcE504qtlZ4Q8xbyGdZ0iA)
 [開發後記](https://docs.google.com/document/d/12Weq3HJAfAxDkkhZG5rhidXZZv3dLKsjv6wqhGCeIVM)
+[連絡人 chipanwang@gmail.com](mailto:chipanwang@gmail.com)
