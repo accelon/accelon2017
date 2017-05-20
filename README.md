@@ -1,8 +1,8 @@
 # accelon2017
 
-[2017.5.18 單機版](http://ya.ksana.tw/yinshun/release/accelon20170518.zip)
+[2017.5.20 單機版](http://ya.ksana.tw/yinshun/release/accelon20170520.zip)
 
-[2017.5.18 for Yinshun](http://ya.ksana.tw/yinshun/release/yinshun20170518.zip)
+[2017.5.20 for Yinshun](http://ya.ksana.tw/yinshun/release/yinshun20170520.zip)
 下載後解壓縮，再下載 cor資料庫。打開index.html 。
 
 [教學影片網址](https://www.youtube.com/channel/UCKcE504qtlZ4Q8xbyGdZ0iA)
