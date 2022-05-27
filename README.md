@@ -1,5 +1,7 @@
 # accelon2017
 
+* 本版已停止開發，新版是 [2021 版](https://github.com/accelon/accelon21)
+
 [2019.04.20 單機版](http://ya.ksana.tw/yinshun/release/accelon20190420.zip)
 
 [2019.04.20 for Yinshun](http://ya.ksana.tw/yinshun/release/yinshun20190420.zip)
